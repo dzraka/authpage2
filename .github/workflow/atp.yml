@@ -29,5 +29,5 @@ jobs:
           context: .
           push: true
           tags: |
-            yungbl/to-do:latest
-            yungbl/to-do:${{ github.sha }}
+            viannnn/atp:Docker
+            viannnn/atp:${{ github.sha }}
